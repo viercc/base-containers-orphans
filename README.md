@@ -3,7 +3,7 @@
 This package provides some orphan instances of types from `containers` and classes from `base`. See the following table.
 
 |containers \\ base|0.4.9|0.4.10|0.4.11|0.4.12|
------------------------------------------------
+|------------------|-----|------|------|------|
 |           0.5.7.1| △  |  △  |  ー  | ー   |
 |           0.5.8.2| △  |  △  |  ー  | ー   |
 |           0.5.9.2| ○  |  ○  |  ー  |  ー  |
