@@ -1,3 +1,7 @@
+** Archived **
+
+This library is abandoned in favor of [functor-classes-compat](https://hackage.haskell.org/package/functor-classes-compat)
+
 # base-containers-orphans
 
 This package provides some orphan instances of types from `containers` and classes from `base`. See the following table.
